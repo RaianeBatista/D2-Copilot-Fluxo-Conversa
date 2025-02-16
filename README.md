@@ -1,6 +1,6 @@
 # Produtividade com Microsoft Copilot Studio
 
-![Image](https://github.com/user-attachments/assets/24445b50-be6e-42cc-87cb-4dcb937d3827)
+![Image](https://github.com/user-attachments/assets/9ef66da6-09e9-4bef-ba97-101a63bea57a)
 
 ## Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio.
 
